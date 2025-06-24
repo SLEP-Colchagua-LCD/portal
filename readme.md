@@ -31,6 +31,9 @@ El **LCD** es una plataforma desarrollada internamente por el SLEP Colchagua par
 - 🤝 [Guía de contribución](https://github.com/SLEP-Colchagua-LCD/.github/blob/main/docs/GUIA_CONTRIBUCION.md)
 - 📜 [Código de conducta](https://github.com/SLEP-Colchagua-LCD/.github/blob/main/docs/CODIGO_CONDUCTA.md)
 - 🛡️ [Política de seguridad](https://github.com/SLEP-Colchagua-LCD/.github/blob/main/docs/POLITICA_SEGURIDAD.md)
+- 🏗️ [Arquitectura del sistema](https://github.com/SLEP-Colchagua-LCD/.github/blob/main/docs/arquitectura.md)
+- 🚧 [Roadmap](https://github.com/SLEP-Colchagua-LCD/.github/blob/main/docs/roadmap.md)
+- ❓ [Preguntas frecuentes (FAQ)](https://github.com/SLEP-Colchagua-LCD/.github/blob/main/docs/preguntas-frecuentes.md)
 - 🐞 [Reportar un bug](https://github.com/SLEP-Colchagua-LCD/portal/issues/new?assignees=&labels=bug&template=bug_report.md)
 - ✨ [Solicitar una mejora](https://github.com/SLEP-Colchagua-LCD/portal/issues/new?assignees=&labels=enhancement&template=feature_request.md)
 
